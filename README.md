@@ -1,3 +1,2 @@
-# Homework Template
-This is a template for assignments in ENGR 3421, Robotics 1.
-> Edit `README.md` to give students instructions.
+# Homework 1: Assemble the robot
+Upload a picture of assembled robot to your assignment repository.
